@@ -15,7 +15,7 @@
 **👨‍💻 I’m currently working at [Ubistart](https://www.ubistart.com/) as a Senior React Developer.**
 
 
-### Contact me 🤖
+<h3 align="center">Contact me 🤖</h3>
 <p align="center">
 	<a href="https://github.com/pitfritsch">
     <img src="./images/github.svg" alt="GitHub" height="60px"/>
