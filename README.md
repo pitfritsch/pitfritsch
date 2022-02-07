@@ -18,12 +18,12 @@
 ### Contact me 🤖
 <p align="center">
 	<a href="https://github.com/pitfritsch">
-    <img src="./images/github" alt="GitHub"/>
+    <img src="./images/github.svg" alt="GitHub"/>
   </a>
 	<a href="https://www.linkedin.com/in/pitfritsch/">
-    <img src="./images/linkedin" alt="LinkedIn"/>
+    <img src="./images/linkedin.svg" alt="LinkedIn"/>
   </a>
 	<a href="https://www.instagram.com/pedro.fritsch">
-    <img src="./images/instagram" alt="Instagram"/>
+    <img src="./images/instagram.svg" alt="Instagram"/>
   </a>
 </p>
