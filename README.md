@@ -12,7 +12,7 @@
   When I develop a system, I'm passionate about performance and usability, for this I develop clean codes that are easy to read and maintain.
 </p>
 
-**👨‍💻 I’m currently working at [Ubistart](https://www.ubistart.com/) as a Senior React Developer.**
+**👨‍💻 I’m currently working at [Toptal](https://www.toptal.com/) as a Senior React Developer.**
 
 
 <h3 align="center">Contact me 🤖</h3>
