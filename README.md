@@ -5,7 +5,7 @@
 ## Pedro Averbeck Fritsch
 
 <p>
-  I'm a front-end developer specialized on React.Js, I have at least 3 years of practical experience on big projects, like the internal system of the Unimed Vale do Caí, sales portal of La Moda, etc.
+  I'm a front-end developer specialized on React.Js, I have at least 7 years of practical experience on big projects, like the internal system of the Unimed Vale do Caí, sales portal of La Moda, etc.
 </p>
 
 <p>
